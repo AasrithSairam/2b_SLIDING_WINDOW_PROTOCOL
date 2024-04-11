@@ -1,3 +1,5 @@
+name:ponguru aasrith sairam
+reg. no: 212223240116
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 ## ALGORITHM:
